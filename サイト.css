@@ -1,0 +1,43 @@
+.name{
+    margin-left: 500px;   
+    margin-bottom: 50px;
+}
+body {
+    background-color: bisque;
+    margin: 100px 250px
+}
+.all {
+    text-align: center;
+}
+ul {
+    list-style: none;
+}
+img {
+    width: 100px;
+    height: auto;
+    border: solid 2px #000000;
+    overflow: hidden;
+    position: relative;
+
+}
+.flex{
+    display: flex;
+    margin: 5px 0px 20px 0px;
+}
+.text{
+    margin: 0px 0px 0px 20px;
+    padding: 10px 20px 5px 30px
+}
+.text{
+    border: solid 2px #000000;
+}
+span{
+    font-size: 130%;
+}
+.flex li{
+    background:#fff
+} 
+
+.over li:hover img{
+    opacity: 0.5;
+}
